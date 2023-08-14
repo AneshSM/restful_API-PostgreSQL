@@ -1,0 +1,27 @@
+{
+  "name": "restfull-api",
+  "version": "1.0.0",
+  "description": "Restful API project which is built using Node.js Express.js Typescript Prisma with PostgreSQL as Realational Database",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://github.com/AneshSM",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AneshSM/restful_API-PostgreSQL.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AneshSM/restful_API-PostgreSQL/issues"
+  },
+  "homepage": "https://github.com/AneshSM/restful_API-PostgreSQL#readme",
+  "devDependencies": {
+    "@types/node": "^20.5.0",
+    "nodemon": "^3.0.1",
+    "prisma": "^5.1.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  }
+}
